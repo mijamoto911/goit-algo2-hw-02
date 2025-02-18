@@ -73,7 +73,7 @@ prices = [2, 5, 7, 8, 10]
 
 - Запуск тестів для розрізання стрижня
 
-- python rod_cutting.py
+- python rod_cutting_memo.py
 
 # Реалізація
 
